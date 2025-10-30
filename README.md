@@ -3,6 +3,7 @@
 A collection of Python projects demonstrating various programming concepts, data structures, and GUI applications.
 
 ## 📋 Table of Contents
+- [Quick Start](#quick-start)
 - [Overview](#overview)
 - [Projects](#projects)
   - [GuardianPass Shield](#guardianpass-shield)
@@ -12,6 +13,10 @@ A collection of Python projects demonstrating various programming concepts, data
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+
+## ⚡ Quick Start
+
+Want to jump right in? Check out our [Quick Start Guide](QUICKSTART.md) to run the projects in minutes!
 
 ## 🔍 Overview
 
