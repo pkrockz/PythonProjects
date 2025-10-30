@@ -13,6 +13,7 @@ A collection of Python projects demonstrating various programming concepts, data
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [Changelog](#changelog)
 
 ## ⚡ Quick Start
 
@@ -118,6 +119,10 @@ Contributions are welcome! If you'd like to contribute:
 ## 📝 License
 
 This project is open source and available for educational purposes.
+
+## 📜 Changelog
+
+For a detailed history of changes and version information, see [CHANGELOG.md](CHANGELOG.md).
 
 ## 👤 Author
 
