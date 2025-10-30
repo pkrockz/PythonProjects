@@ -172,6 +172,4 @@ PythonProjects/
 - Documentation added in October 2024
 - Projects are maintained for educational purposes
 - All projects use Python 3.6+ and Tkinter
-
-[Unreleased]: https://github.com/pkrockz/PythonProjects/compare/v1.6...HEAD
-[1.6]: https://github.com/pkrockz/PythonProjects/releases/tag/v1.6
+- Version tags are tracked in the code files' changelogs rather than GitHub releases
